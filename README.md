@@ -1,7 +1,4 @@
 <img src="banner.png" alt="bg">
-<br>
-<br>
-
 ___
 <h1>Socials</h1>
 <a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
