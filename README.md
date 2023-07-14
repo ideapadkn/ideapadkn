@@ -1,9 +1,20 @@
 <img src="banner.png" alt="bg">
 <br>
 <br>
-<br>
 
+___
+<h1>Socials</h1>
+<a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
+</a>
+<a style="margin-right: 20px" href="https://www.instagram.com/_ideapad/" target="_blank">
+  <img width="40px" src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM" alt="instagram">
+</a>
+<a style="margin-right: 20px" href="https://twitter.com/_ideapad_" target="_blank">
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="twitter">
+</a>
 
+---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
