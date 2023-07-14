@@ -1,5 +1,7 @@
 <img src="banner.png" alt="bg">
+
 ___
+
 <h1>Socials</h1>
 <a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
