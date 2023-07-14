@@ -2,7 +2,7 @@
 
 ___
 
-<h1>:earth_asia:Socials</h1>
+# 🤝 Socials
 <a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
 </a>
@@ -14,7 +14,7 @@ ___
 </a>
 
 ---
-# :computer: Technologies
+# 💻 Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -38,7 +38,20 @@ ___
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideapadkn&layout=compact)](https://github.com/ideapadkn/)
+### ⚙️ GitHub static:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ideapadkn&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ideapadkn&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ideapadkn)
 
 ---
 
