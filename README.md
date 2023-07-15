@@ -12,6 +12,9 @@ ___
 <a style="margin-right: 20px" href="https://twitter.com/_ideapad_" target="_blank">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="twitter">
 </a>
+<a style="margin-right: 20px" href="https://leetcode.com/ideapadkn/" target="_blank">
+  <img width="40px" src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" alt="twitter">
+</a>
 
 ---
 # 💻 Technologies
