@@ -37,7 +37,16 @@ ___
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true)
+<table>
+  <tr> 
+    <td style="width: 70%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static"> 
+    </td>
+    <td>
+      <img src="spidertocat.png" alt="spidercat">
+    </td>
+  </tr>
+</table>
 
 ---
 
