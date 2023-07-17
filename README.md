@@ -1,14 +1,4 @@
-<p align="center">
-  <img style="transform: rotate(90deg);" src="https://im3.ezgif.com/tmp/ezgif-3-626bfbcf91.gif">
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static">
-
-### Hi there，I'm Kamron 🙋‍♂️
-
-- Open source is something I'm interested in.
-- JavaScript (Vue) is an area I'm focusing on right now.
-
+<img src="banner.png" alt="bg">
 
 ___
 
@@ -47,7 +37,7 @@ ___
 
 ___
 
-<!-- <table>
+<table>
   <tr> 
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static"> 
@@ -56,7 +46,7 @@ ___
       <img height="195px" align="right" src="spidertocat.png" alt="spidercat 1">
     </td>
   </tr>
-</table> -->
+</table>
 
 ---
 
