@@ -43,7 +43,7 @@ ___
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static"> 
     </td>
     <td>
-      <img height="195px" align="right" src="spidertocat.png" alt="spidercat">
+      <img height="195px" align="right" src="spidertocat.png" alt="spidercat 1">
     </td>
   </tr>
 </table>
