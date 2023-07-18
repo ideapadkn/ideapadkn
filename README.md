@@ -1,11 +1,11 @@
 <img src="img/banner.png" alt="bg">
 
-
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
 
-___
+---
 
 # 🤝 Socials
+
 <a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
 </a>
@@ -19,8 +19,10 @@ ___
   <img width="40px" src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" alt="twitter">
 </a>
 
-___
+---
+
 # 💻 Technologies
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -38,7 +40,7 @@ ___
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-___
+---
 
 <table>
   <tr> 
@@ -51,7 +53,7 @@ ___
   </tr>
 </table>
 
-___
+---
 
 ### ⚙️ GitHub static:
 
@@ -70,11 +72,11 @@ ___
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
 
-___
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ideapadkn&theme=onedark)](https://github.com/ideapadkn)
 
-___
+---
 
 <!--
 **ideapadkn/ideapadkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
