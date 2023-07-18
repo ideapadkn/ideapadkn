@@ -19,7 +19,7 @@ ___
   <img width="40px" src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" alt="twitter">
 </a>
 
----
+___
 # 💻 Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@ ___
   </tr>
 </table>
 
----
+___
 
 ### ⚙️ GitHub static:
 
@@ -70,12 +70,11 @@ ___
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
 
----
+___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ideapadkn&theme=onedark)](https://github.com/ideapadkn)
 
----
-
+___
 
 <!--
 **ideapadkn/ideapadkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,6 +93,7 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">Привет 👋, меня зовут Камрон</h1>
 <h3 align="center">увлеченный фронтенд-разработчик из Индии</h3>
+
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ideapadkn" alt="ideapadkn" /></a > </p>
 
