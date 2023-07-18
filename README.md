@@ -95,7 +95,6 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Привет 👋, меня зовут Камрон</h1>
 <h3 align="center">увлеченный фронтенд-разработчик из Индии</h3>
 
-
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ideapadkn" alt="ideapadkn" /></a > </p>
 
 <h3 align="left">Свяжитесь со мной:</h3>
