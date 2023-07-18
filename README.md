@@ -1,4 +1,4 @@
-<img src="banner.png" alt="bg">
+<img src="img/banner.png" alt="bg">
 
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
@@ -46,7 +46,7 @@ ___
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static"> 
     </td>
     <td>
-      <img height="195px" align="right" src="spidertocat.png" alt="spidercat 1">
+      <img height="195px" align="right" src="img/spidertocat.png" alt="spidercat 1">
     </td>
   </tr>
 </table>
