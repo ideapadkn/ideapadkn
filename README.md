@@ -55,7 +55,7 @@
 <table>
   <tr> 
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=midnight-purple&show_icons=true" alt="static"> 
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=holi&show_icons=true" alt="static">
     </td>
     <td>
       <img height="195px" align="right" src="img/spidertocat.png" alt="spidercat 1">
