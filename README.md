@@ -8,7 +8,6 @@
 
 # 🤝 Socials
 
-<div style="margin-right: 15px; display: inline-block;">
   <a 
     href="https://t.me/kn6429"    
     target="_blank">
@@ -16,8 +15,6 @@
       width="40px" 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
   </a>
-</div>
-<div style="margin-right: 15px; display: inline-block;">
   <a 
     href="https://www.instagram.com/_ideapad/" 
     target="_blank">
@@ -26,8 +23,6 @@
       src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM" 
       alt="instagram">
   </a>
-</div>
-<div style="margin-right: 15px; display: inline-block;">
   <a 
     href="https://twitter.com/_ideapad_" 
     target="_blank">
@@ -36,8 +31,6 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" 
       alt="twitter">
   </a>
-</div>
-<div style="margin-right: 15px; display: inline-block;">
   <a 
     href="https://leetcode.com/ideapadkn/" 
     target="_blank">
@@ -46,8 +39,6 @@
       src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" 
       alt="twitter">
   </a>
-</div>
-<div style="margin-right: 15px; display: inline-block;">
   <a 
     href="https://www.linkedin.com/in/ideapadkn/" 
     target="_blank">
@@ -56,7 +47,6 @@
       src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
       alt="twitter">
   </a>
-</div>
 
 ---
 
