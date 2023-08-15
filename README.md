@@ -2,22 +2,61 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
+
 ---
 
 # 🤝 Socials
 
-<a style="margin-right: 20px" href="https://t.me/kn6429" target="_blank">
-  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
-</a>
-<a style="margin-right: 20px" href="https://www.instagram.com/_ideapad/" target="_blank">
-  <img width="40px" src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM" alt="instagram">
-</a>
-<a style="margin-right: 20px" href="https://twitter.com/_ideapad_" target="_blank">
-  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="twitter">
-</a>
-<a style="margin-right: 20px" href="https://leetcode.com/ideapadkn/" target="_blank">
-  <img width="40px" src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" alt="twitter">
-</a>
+<div style="margin-right: 15px; display: inline-block;">
+  <a 
+    href="https://t.me/kn6429"    
+    target="_blank">
+    <img 
+      width="40px" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
+  </a>
+</div>
+<div style="margin-right: 15px; display: inline-block;">
+  <a 
+    href="https://www.instagram.com/_ideapad/" 
+    target="_blank">
+    <img 
+      width="40px" 
+      src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM" 
+      alt="instagram">
+  </a>
+</div>
+<div style="margin-right: 15px; display: inline-block;">
+  <a 
+    href="https://twitter.com/_ideapad_" 
+    target="_blank">
+    <img 
+      width="40px" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" 
+      alt="twitter">
+  </a>
+</div>
+<div style="margin-right: 15px; display: inline-block;">
+  <a 
+    href="https://leetcode.com/ideapadkn/" 
+    target="_blank">
+    <img 
+      width="40px" 
+      src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" 
+      alt="twitter">
+  </a>
+</div>
+<div style="margin-right: 15px; display: inline-block;">
+  <a 
+    href="https://www.linkedin.com/in/ideapadkn/" 
+    target="_blank">
+    <img 
+      width="40px" 
+      src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
+      alt="twitter">
+  </a>
+</div>
 
 ---
 
@@ -42,14 +81,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-
 
 ---
 
@@ -71,16 +104,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ideapadkn&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ideapadkn&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ideapadkn&layout=compact&theme=vision-friendly-dark" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ideapadkn&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
   </tr>
 </table>
-
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
 
 ---
 
