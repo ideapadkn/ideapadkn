@@ -1,4 +1,4 @@
-<img src="img/banner.png" alt="bg">
+<img src="img/banner.jpg" alt="bg">
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
 
@@ -8,45 +8,45 @@
 
 # 🤝 Socials
 
-  <a 
+<a 
     href="https://t.me/kn6429"    
     target="_blank">
-    <img 
+<img 
       width="40px" 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram">
-  </a>
-  <a 
+</a>
+<a 
     href="https://www.instagram.com/_ideapad/" 
     target="_blank">
-    <img 
+<img 
       width="40px" 
       src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM" 
       alt="instagram">
-  </a>
-  <a 
+</a>
+<a 
     href="https://twitter.com/_ideapad_" 
     target="_blank">
-    <img 
+<img 
       width="40px" 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" 
       alt="twitter">
-  </a>
-  <a 
+</a>
+<a 
     href="https://leetcode.com/ideapadkn/" 
     target="_blank">
-    <img 
+<img 
       width="40px" 
       src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" 
       alt="twitter">
-  </a>
-  <a 
+</a>
+<a 
     href="https://www.linkedin.com/in/ideapadkn/" 
     target="_blank">
-    <img 
+<img 
       width="40px" 
       src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
       alt="twitter">
-  </a>
+</a>
 
 ---
 
@@ -73,7 +73,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
 
 ---
 
