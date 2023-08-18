@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" alt="bg">
+<img src="./img/banner.jpg" alt="banner">
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
 
