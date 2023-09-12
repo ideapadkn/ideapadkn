@@ -32,14 +32,6 @@
       alt="twitter">
 </a>
 <a 
-    href="https://leetcode.com/ideapadkn/" 
-    target="_blank">
-<img 
-      width="40px" 
-      src="https://lh3.googleusercontent.com/p/AF1QipNZ7B52y87FgrIfurO5gCBdBLvOQjbXZf88b6Up=s1360-w1360-h1020" 
-      alt="twitter">
-</a>
-<a 
     href="https://www.linkedin.com/in/ideapadkn/" 
     target="_blank">
 <img 
