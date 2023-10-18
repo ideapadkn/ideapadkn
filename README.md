@@ -2,7 +2,10 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer)
 
+<div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
+- :comet: &nbsp;**[Portfolio](https://my-dev.netlify.app)**
+</div>
 
 ---
 
