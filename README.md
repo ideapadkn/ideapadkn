@@ -130,31 +130,31 @@
       <br>Vue JS
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#ideapad-stack" >
         <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="36" height="36" alt="Mobx" />
       </a>
       <br>Pinia
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#ideapad-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#ideapad-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td> 
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#ideapad-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#ideapad-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
