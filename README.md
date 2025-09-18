@@ -1,10 +1,10 @@
-<img src="./img/banner.jpg" alt="banner">
+<!-- <img src="./img/banner.jpg" alt="banner">
 
-<!--![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer) -->
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer) 
 
 <div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
-</div>
+</div> -->
 
 ---
 
@@ -50,6 +50,12 @@
       </a>
       <br>javascript
     </td>
+      <td align="center" width="110" height="90">
+      <a href="#ideapad-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>python
+    </td>
     <td align="center" width="110" height="90">
       <a href="#ideapad-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
@@ -92,7 +98,13 @@
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
+      <a href="#ideapad-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yaml/yaml-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>yaml
+    </td>
+    <td align="center" width="110" height="90"> 
       <a href="#ideapad-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
@@ -131,7 +143,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ideapad-stack" >
-        <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="36" height="36" alt="Mobx" />
+        <img src="https://images.seeklogo.com/logo-png/46/1/pinia-logo-png_seeklogo-467284.png" width="36" height="36" alt="Mobx" />
       </a>
       <br>Pinia
     </td>
@@ -155,7 +167,7 @@
     </td>
    <td align="center" width="110" height="90">
       <a href="#ideapad-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
@@ -169,7 +181,7 @@
 <table>
   <tr> 
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&theme=holi&show_icons=true" alt="static">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&show_icons=true&theme=radical" alt="static">
     </td>
     <td>
       <img height="195px" align="right" src="img/spidertocat.png" alt="spidercat 1">
