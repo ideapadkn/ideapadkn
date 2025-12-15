@@ -14,11 +14,6 @@
 <img src="./img/social/icons8-telegram.svg" alt="telegram">
 </a>
 <a 
-    href="https://www.instagram.com/_ideapad/" 
-    target="_blank">
-<img src="./img/social/icons8-instagram.svg" alt="instagram">
-</a>
-<a 
     href="https://twitter.com/_ideapad_" 
     target="_blank">
 <img src="./img/social/icons8-twitter.svg" alt="twitter">
@@ -29,7 +24,7 @@
 <img src="./img/social/icons8-linkedin.svg" alt="linkedin">
 </a>
 <a 
-    href="https://my-dev.netlify.app" 
+    href="https://6429.netlify.app" 
     target="_blank">
 <img width="44px" src="./img/social/icons8-global-48.png" alt="portfolio">
 </a>
@@ -138,12 +133,6 @@
         <img src="https://brandlogos.net/wp-content/uploads/2022/01/vue.js-logo-brandlogo.net_-768x768.png" width="36" height="36" alt="React" />
       </a>
       <br>Vue JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack" >
-        <img src="https://images.seeklogo.com/logo-png/46/1/pinia-logo-png_seeklogo-467284.png" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Pinia
     </td>
     <td align="center" width="110" height="90">
       <a href="#ideapad-stack">
