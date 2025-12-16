@@ -189,13 +189,13 @@
   </tr>
 </table>
 
----
+<!---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ideapadkn&theme=onedark)](https://github.com/ideapadkn)
 
 ---
 
-<!--
+
 **ideapadkn/ideapadkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
