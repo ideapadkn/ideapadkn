@@ -1,229 +1,156 @@
-<!-- <img src="./img/banner.jpg" alt="banner">
-
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Vue+JS+Developer) 
-
-<div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=0e75b6&style=flat" alt="ideapadkn"/></p>
-</div> -->
-
-# 🤝 Socials
-
-<a 
-    href="https://t.me/kn6429"    
-    target="_blank">
-<img src="./img/social/icons8-telegram.svg" alt="telegram">
+<!-- ====================== HEADER ====================== -->
+<a href="https://6429.netlify.app">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Kamron%20Karimov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Conversational%20AI%20Engineer%20%C2%B7%20Rasa%20%7C%20NLU%20%7C%20Voice%20Agents%20%7C%20Python&descAlignY=58&descSize=18" alt="header"/>
 </a>
-<a 
-    href="https://twitter.com/_ideapad_" 
-    target="_blank">
-<img src="./img/social/icons8-twitter.svg" alt="twitter">
-</a>
-<a 
-    href="https://www.linkedin.com/in/ideapadkn/" 
-    target="_blank">
-<img src="./img/social/icons8-linkedin.svg" alt="linkedin">
-</a>
-<a 
-    href="https://6429.netlify.app" 
-    target="_blank">
-<img width="44px" src="./img/social/icons8-global-48.png" alt="portfolio">
-</a>
+
+<!-- ====================== TYPING SUBTITLE ====================== -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=900&color=2575FC&center=true&vCenter=true&width=620&lines=Building+multilingual+voice+agents+%F0%9F%87%BA%F0%9F%87%BF+%F0%9F%87%B7%F0%9F%87%BA;Rasa+%E2%80%A2+NLU+%E2%80%A2+Dialogue+Management;LLM+%E2%80%A2+RAG+%E2%80%A2+Prompt+Engineering;Voice+AI+%E2%80%A2+ASR+%E2%80%A2+TTS+%E2%80%A2+ElevenLabs)](https://6429.netlify.app)
+
+<!-- ====================== PROFILE VIEWS ====================== -->
+<img src="https://komarev.com/ghpvc/?username=ideapadkn&label=Profile%20views&color=2575fc&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<!-- ====================== SOCIALS ====================== -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=safari&logoColor=white)](https://6429.netlify.app)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kn6429)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideapadkn/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_ideapad_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.karimov@tuit.uz)
+
+</div>
 
 ---
 
-# 💻 Technologies
+<!-- ====================== ABOUT ====================== -->
+## 🧠 About Me
 
-> General
+```python
+class KamronKarimov:
+    def __init__(self):
+        self.role        = "Conversational AI Engineer"
+        self.company     = "Cybernet"
+        self.location    = "Tashkent, Uzbekistan 🇺🇿"
+        self.focus       = ["Voice Agents", "Rasa", "NLU", "LLM / RAG"]
+        self.languages   = {"uz": "native", "ru": "C1", "en": "B1"}
+        self.domain      = "Fintech & payment voice assistants"
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>javascript
-    </td>
-      <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>python
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>typescript
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-      </a>
-      <br>figma
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yaml/yaml-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>yaml
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
-  </tr> 
-</table>
+    def what_i_do(self):
+        return (
+            "I design and ship end-to-end conversational systems — "
+            "from multilingual NLU pipelines (40k+ labeled examples) "
+            "to production voice flows that real users talk to."
+        )
+```
 
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-  </tr> 
-</table>
-
-> Frontend
-
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2022/01/vue.js-logo-brandlogo.net_-768x768.png" width="36" height="36" alt="React" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ideapad-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#ideapad-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-</table>
+- 🤖 Designing & shipping **end-to-end dialogue systems on Rasa** (stories, rules, slots, forms)
+- 🗣️ Building **multilingual NLU pipelines** in **Uzbek & Russian** on 40 000+ labeled examples
+- 🎙️ Crafting **voice agents** — ASR · TTS · ElevenLabs · personalized voice flows
+- 🧩 Writing custom **Python actions** with external APIs, databases & business logic
+- 🪄 Experimenting with **LLM + RAG** to make bots less scripted and more natural
+- 📊 Monitoring production, debugging dialogue failures & cutting fallback rates
+- 💬 Ask me about **Conversational Design, Voice AI, and multitenant bot platforms**
 
 ---
 
-### ⚙️ GitHub static:
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-<table>
-  <tr> 
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&show_icons=true&theme=radical" alt="static">
-    </td>
-    <td>
-      <img height="195px" align="right" src="img/spidertocat.png" alt="spidercat 1">
-    </td>
-  </tr>
-</table>
+#### 🤖 Conversational & Voice AI
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+![NLU](https://img.shields.io/badge/NLU-2575FC?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Dialogue Management](https://img.shields.io/badge/Dialogue%20Management-6a11cb?style=for-the-badge&logo=chatbot&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice%20Agents-FF6F61?style=for-the-badge&logo=audiomack&logoColor=white)
+![ASR](https://img.shields.io/badge/ASR-009688?style=for-the-badge&logo=googlevoice&logoColor=white)
+![TTS](https://img.shields.io/badge/TTS-009688?style=for-the-badge&logo=speakerdeck&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+
+#### 🧬 LLM & NLP
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=for-the-badge&logo=probot&logoColor=white)
+![Multilingual NLP](https://img.shields.io/badge/Multilingual%20NLP-2575FC?style=for-the-badge&logo=translate&logoColor=white)
+
+#### 🐍 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚙️ Tools & Platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+<details>
+<summary>🎨 <b>Frontend (where it all started)</b></summary>
+<br>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ideapadkn&layout=compact&theme=vision-friendly-dark" />
-    </td>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ideapadkn&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
+<!-- ====================== EXPERIENCE ====================== -->
+## 🚀 Experience
 
-<!---
+| Period | Role | Company |
+| :--- | :--- | :--- |
+| **Jul 2025 — Present** | 🤖 Conversational AI Engineer | **Cybernet** |
+| Mar 2025 — Jun 2025 | 🧪 QA Engineer (NLP & ASR validation) | Cybernet |
+| Oct 2024 — Feb 2025 | 🎚️ Post-Audio Engineer | Cybernet |
+| Feb 2023 — Aug 2023 | 🎨 Frontend Developer (Intern) | Texnomart |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ideapadkn&theme=onedark)](https://github.com/ideapadkn)
+🎓 **B.Sc. Software Engineering** — Tashkent University of Information Technologies (2025)
+📜 **Rasa Developer Certification** · SQL (Basic) · CSS (Basic) — HackerRank
 
 ---
 
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
 
-**ideapadkn/ideapadkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ideapadkn&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2575FC&icon_color=6a11cb" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideapadkn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2575FC&langs_count=8" alt="top langs"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ideapadkn&theme=react&hide_border=true&background=0D1117&ring=2575FC&fire=6a11cb&currStreakLabel=2575FC" alt="streak"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ideapadkn&theme=react-dark&hide_border=true&bg_color=0D1117&color=2575FC&line=6a11cb&point=ffffff&area=true" alt="activity graph"/>
+
+</div>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ideapadkn&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+
+### ✨ "Conversational AI Engineer focused on multilingual voice agents for fintech. I just do what needs to be done." ✨
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="footer"/>
