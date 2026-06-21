@@ -16,11 +16,11 @@
 <!-- ====================== SOCIALS ====================== -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=safari&logoColor=white)](https://6429.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=safari&logoColor=white)](https://knidea.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kn6429)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideapadkn/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_ideapad_)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.karimov@tuit.uz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ideapadkn@gmail.com)
 
 </div>
 
