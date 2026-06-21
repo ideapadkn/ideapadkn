@@ -1,5 +1,5 @@
 <!-- ====================== HEADER ====================== -->
-<a href="https://6429.netlify.app">
+<a href="https://knidea.xyz">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Kamron%20Karimov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Conversational%20AI%20Engineer%20%C2%B7%20Rasa%20%7C%20NLU%20%7C%20Voice%20Agents%20%7C%20Python&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
